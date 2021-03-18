@@ -5,5 +5,6 @@ for the Tutorial
 int main(){
 
 printf("Hello.\n");
+printf("I'm Lee.\n");
 
 }
